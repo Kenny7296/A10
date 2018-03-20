@@ -52,3 +52,7 @@ link a:hover {
     text-shadow: 1px 1px #800000;
 }
 /* the styles for the footer */
+
+footer {
+    text-align: center;
+}
